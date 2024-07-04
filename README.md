@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Looking for nice project and nice people.
 <!--
 **verilou/verilou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
